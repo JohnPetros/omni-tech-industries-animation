@@ -26,7 +26,7 @@ Aplicativo que permite executar diferentes animações: Rotacionar (Rotate), Esc
 
 ### Demonstração
 <div align="center">
-  <img width="750" alt="Demonstração do App funcionando" src=".github/omni-tech.gif" />
+  <img width="250" alt="Demonstração do App funcionando" src=".github/omni-tech.gif" />
 </div>
 
 ---
