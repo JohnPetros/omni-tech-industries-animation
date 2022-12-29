@@ -52,7 +52,7 @@ Antes de baixar o projeto você vai precisar ter instalado na sua máquina as se
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)<br>
 
-> Você poder executar o App no seu celular ou em um emulador de celular da sua preferência usando Expo, ou ainda pela plataforma web do Expo acessando este link: [expo.dev](https://snack.expo.dev/@git/github.com/JohnPetros/omni-tech-industries-animation?platform=android).
+> Você poder executar o App no seu celular ou em um emulador de celular da sua preferência usando Expo, ou ainda pela plataforma web do Expo acessando este link: [expo.dev](https://snack.expo.dev/@git/github.com/JohnPetros/omni-tech-industries-animation?platform=web).
 
 #### 📟 Instruções
 
